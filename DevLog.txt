@@ -1,0 +1,22 @@
+Convert Version 1.0 (Copywrite 2023)(Stable)
+-Created origional .bat file 
+-Name of file must be entered into the code itself
+-Case specific
+-Stable
+Convert Version 2.0 (Stable)
+-No longer case specific
+-File searching
+-Default .exe name is "Product.exe"
+Convert Version 3.0 (Current Official Release)(Insiders)
+-User-entered name for product
+-Auto file searching
+-Gives error message if there is more than .cpp file present in the current folder 
+Convert Version 4.0 (Indev Unstable)
+-Makes .cpp file list
+-User inputs name of .cpp file
+-User inputs name for .exe file production
+-Automatically adds .exe and .cpp to the end of each entry
+-Works in any folder
+-Reports false error for .exe file searching
+-User-friendly
+-Still unstable due to error messages
