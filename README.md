@@ -1,2 +1,2 @@
 # CppConverter
-Batch files made to convert .cpp files into .exe files
+Batch files made to compile .cpp files into .exe files.
