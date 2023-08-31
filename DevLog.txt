@@ -23,3 +23,8 @@ Compile Version 4.0 (Unstable)
 Compile Version 4.1 (Official Current Release)(Stable)
 -Attempted adding optimization level, almost worked
 -Redirected errors to Debug.txt, which is created by the batch file.
+Compile Version 4.2 (Stable)
+-Checks to see if Debug.txt exists and if not it makes Debug.txt
+-Added the option to run the file after its done compiling
+-Added timestamps for errors
+-Added area for errors to appear when *.cpp has an error in it.
