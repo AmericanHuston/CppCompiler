@@ -20,10 +20,10 @@ Compile Version 4.0 (Unstable)
 -Reports false error for .exe file searching
 -User-friendly
 -Still unstable due to error messages
-Compile Version 4.1 (Official Current Release)(Stable)
+Compile Version 4.1 (Stable)
 -Attempted adding optimization level, almost worked
 -Redirected errors to Debug.txt, which is created by the batch file.
-Compile Version 4.2 (Stable)
+Compile Version 4.2 (Official Current Release)(Stable)
 -Checks to see if Debug.txt exists and if not it makes Debug.txt
 -Added the option to run the file after its done compiling
 -Added timestamps for errors
