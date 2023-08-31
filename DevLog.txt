@@ -22,3 +22,4 @@ Compile Version 4.0 (Indev Unstable)
 -Still unstable due to error messages
 Compile Version 4.1 (Unstable)
 -Attempted adding optimization level, almost worked
+-Redirected errors to `Debug.txt`
