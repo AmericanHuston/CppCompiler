@@ -20,3 +20,5 @@ Compile Version 4.0 (Indev Unstable)
 -Reports false error for .exe file searching
 -User-friendly
 -Still unstable due to error messages
+Compile Version 4.1 (Unstable)
+-Attempted adding optimization level, almost worked
