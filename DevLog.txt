@@ -7,11 +7,11 @@ Compile Version 2.0 (Stable)
 -No longer case specific
 -File searching
 -Default .exe name is "Product.exe"
-Compile Version 3.0 (Current Official Release)(Insiders)
+Compile Version 3.0 (Insiders)(Stable)
 -User-entered name for product
 -Auto file searching
 -Gives error message if there is more than .cpp file present in the current folder 
-Compile Version 4.0 (Indev Unstable)
+Compile Version 4.0 (Unstable)
 -Makes .cpp file list
 -User inputs name of .cpp file
 -User inputs name for .exe file production
@@ -20,6 +20,6 @@ Compile Version 4.0 (Indev Unstable)
 -Reports false error for .exe file searching
 -User-friendly
 -Still unstable due to error messages
-Compile Version 4.1 (Unstable)
+Compile Version 4.1 (Official Current Release)(Stable)
 -Attempted adding optimization level, almost worked
 -Redirected errors to Debug.txt, which is created by the batch file.
