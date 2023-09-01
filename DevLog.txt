@@ -31,11 +31,11 @@ Compile Version4.2 (Stable)
 Compile Version5.0 (Stable)
 -Added autorun [better]
 -Re-Added auto-compile for single .cpp folders only
-Compile Version5.1 (Official Current Release)(Stable)
+Compile Version5.1 (Stable)
 -Errors are given for more specific issues
 -Runs the .exe inside the currently open comand prompt
 -ALL errors now go to Debug.txt
-Compile Version5.2 (Stable)
+Compile Version5.2 (Official Current Release)(Stable)
 -Added choosing what flags to add
 CompileLite (Lite)(Stable)
 -Not case specific
