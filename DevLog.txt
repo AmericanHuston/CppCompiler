@@ -1,17 +1,17 @@
-Compile Version 1.0 (Copywrite 2023)(Stable)
+Compile Version1.0 (Copywrite 2023)(Stable)
 -Created origional .bat file 
 -Name of file must be entered into the code itself
 -Case specific
 -Stable
-Compile Version 2.0 (Stable)
+Compile Version2.0 (Stable)
 -No longer case specific
 -File searching
 -Default .exe name is "Product.exe"
-Compile Version 3.0 (Insiders)(Stable)
+Compile Version3.0 (Insiders)
 -User-entered name for product
 -Auto file searching
 -Gives error message if there is more than .cpp file present in the current folder 
-Compile Version 4.0 (Unstable)
+Compile Version4.0 (Unstable)
 -Makes .cpp file list
 -User inputs name of .cpp file
 -User inputs name for .exe file production
@@ -20,11 +20,25 @@ Compile Version 4.0 (Unstable)
 -Reports false error for .exe file searching
 -User-friendly
 -Still unstable due to error messages
-Compile Version 4.1 (Stable)
+Compile Version4.1 (Stable)
 -Attempted adding optimization level, almost worked
 -Redirected errors to Debug.txt, which is created by the batch file.
-Compile Version 4.2 (Official Current Release)(Stable)
+Compile Version4.2 (Stable)
 -Checks to see if Debug.txt exists and if not it makes Debug.txt
 -Added the option to run the file after its done compiling
 -Added timestamps for errors
 -Added area for errors to appear when *.cpp has an error in it.
+Compile Version5.0 (Stable)
+-Added autorun [better]
+-Re-Added auto-compile for single .cpp folders only
+Compile Version5.1 (Official Current Release)(Stable)
+-Errors are given for more specific issues
+-Runs the .exe inside the currently open comand prompt
+-ALL errors now go to Debug.txt
+Compile Version5.2 (Stable)
+-Added choosing what flags to add
+CompileLite (Lite)(Stable)
+-Not case specific
+-Modified from Version2.0
+-More specific errors
+-Only for folders with only one .cpp file
